@@ -1,13 +1,1 @@
-{
-  "openapi": "3.0.0",
-  "info": {
-    "title": "1",
-    "description": "tetst",
-    "version": "123"
-  },
-  "tags": [],
-  "paths": {},
-  "components": {
-    "schemas": {}
-  }
-}
+%7B%0A%20%20%22openapi%22%3A%20%223.0.0%22%2C%0A%20%20%22info%22%3A%20%7B%0A%20%20%20%20%22title%22%3A%20%221%22%2C%0A%20%20%20%20%22description%22%3A%20%22tetst%22%2C%0A%20%20%20%20%22version%22%3A%20%22123%22%0A%20%20%7D%2C%0A%20%20%22tags%22%3A%20%5B%5D%2C%0A%20%20%22paths%22%3A%20%7B%7D%2C%0A%20%20%22components%22%3A%20%7B%0A%20%20%20%20%22schemas%22%3A%20%7B%7D%0A%20%20%7D%0A%7D
